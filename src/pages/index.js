@@ -7,17 +7,14 @@ const highlights = [
   {
     title: 'Documentation - samples',
     text: 'I shape thoughtful interfaces that balance aesthetics, usability, and performance.',
-    to: '/docs/intro',
   },
   {
     title: 'Information Design',
     text: 'From front-end implementation to polished documentation, I enjoy bringing ideas to life.',
-    to: '/docs/intro',
   },
   {
     title: 'Docs-as-code',
     text: 'Every project is framed with context, strategy, and a strong visual narrative.',
-    to: '/docs/intro',
   },
 ];
 
@@ -39,6 +36,12 @@ const galleryImages = [
 export default function Home() {
   const heroFallback = useBaseUrl('/img/hero.svg');
   const heroBackground = useBaseUrl('/img/docu1.jpg');
+  const introPath = useBaseUrl('/docs/intro');
+  const aboutPath = useBaseUrl('/docs/about');
+  const galleryImagesWithBaseUrl = galleryImages.map((image) => ({
+    ...image,
+    src: useBaseUrl(image.src),
+  }));
 
   return (
     <Layout title="Home" description="Lavender Cottage portfolio built with Docusaurus.">
@@ -51,10 +54,10 @@ export default function Home() {
               This portfolio is showcasing my latest work and demo samples.
             </p>
             <div className="hero-actions">
-              <Link className="button button--primary" to="/docs/intro">
+              <Link className="button button--primary" to={introPath}>
                 Check out the portfolio
               </Link>
-              <Link className="button button--secondary" to="/docs/about">
+              <Link className="button button--secondary" to={aboutPath}>
                 About me
               </Link>
             </div>
@@ -79,7 +82,7 @@ export default function Home() {
 
         <section className="feature-grid">
           {highlights.map((item) => (
-            <Link key={item.title} to={item.to} className="feature-card-link">
+            <Link key={item.title} to={introPath} className="feature-card-link">
               <article className="feature-card">
                 <h3>{item.title}</h3>
                 <p>{item.text}</p>
@@ -89,10 +92,10 @@ export default function Home() {
         </section>
 
         <section className="image-row" aria-label="Portfolio highlights">
-          {galleryImages.map((image) => (
+          {galleryImagesWithBaseUrl.map((image) => (
             <img
               key={image.alt}
-              src={useBaseUrl(image.src)}
+              src={image.src}
               alt={image.alt}
               loading="lazy"
               decoding="async"
