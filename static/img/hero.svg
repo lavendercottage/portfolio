@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#26B7B7"/>
+      <stop offset="1" stop-color="#B8A027"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#f8f5eb"/>
+  <rect x="80" y="80" width="720" height="520" rx="12" fill="url(#g)" opacity="0.12"/>
+  <g transform="translate(140,160)">
+    <rect x="0" y="0" width="520" height="320" rx="8" fill="#fff" stroke="#e6e2d7"/>
+    <rect x="24" y="24" width="472" height="40" rx="6" fill="#f3f3f3"/>
+    <rect x="24" y="80" width="420" height="12" rx="6" fill="#eee"/>
+    <rect x="24" y="104" width="380" height="12" rx="6" fill="#eee"/>
+    <rect x="24" y="128" width="300" height="12" rx="6" fill="#eee"/>
+  </g>
+  <g transform="translate(920,160)">
+    <circle cx="80" cy="80" r="60" fill="#fff" stroke="#e6e2d7"/>
+    <rect x="160" y="40" width="320" height="200" rx="10" fill="#fff" stroke="#e6e2d7"/>
+    <rect x="180" y="64" width="280" height="12" rx="6" fill="#eee"/>
+    <rect x="180" y="92" width="240" height="12" rx="6" fill="#eee"/>
+  </g>
+  <text x="120" y="740" font-family="Inter, Arial, sans-serif" font-size="28" fill="#383528">Hero placeholder — upload your image to static/img/hero.jpg to replace</text>
+</svg>
