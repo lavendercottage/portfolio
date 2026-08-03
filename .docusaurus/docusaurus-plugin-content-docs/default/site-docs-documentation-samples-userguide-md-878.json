@@ -1,0 +1,22 @@
+{
+  "id": "Documentation samples/userguide",
+  "title": "User guide",
+  "description": "",
+  "source": "@site/docs/Documentation samples/userguide.md",
+  "sourceDirName": "Documentation samples",
+  "slug": "/Documentation samples/userguide",
+  "permalink": "/docs/Documentation samples/userguide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "User guide",
+    "sidebar_label": "User guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation guide",
+    "permalink": "/docs/Documentation samples/installationguide"
+  }
+}

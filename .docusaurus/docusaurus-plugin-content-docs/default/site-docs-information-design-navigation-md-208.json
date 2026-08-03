@@ -1,0 +1,23 @@
+{
+  "id": "Information design/Navigation",
+  "title": "Navigation",
+  "description": "",
+  "source": "@site/docs/Information design/Navigation.md",
+  "sourceDirName": "Information design",
+  "slug": "/Information design/Navigation",
+  "permalink": "/docs/Information design/Navigation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Information design",
+    "permalink": "/docs/category/information-design"
+  },
+  "next": {
+    "title": "Taxonomi",
+    "permalink": "/docs/Information design/Taxonomi"
+  }
+}

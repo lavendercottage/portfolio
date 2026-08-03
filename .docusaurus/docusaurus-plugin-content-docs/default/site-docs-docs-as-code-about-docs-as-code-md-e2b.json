@@ -1,0 +1,23 @@
+{
+  "id": "Docs-as-code/About Docs-as-code",
+  "title": "Om Docs-as-code",
+  "description": "Docs-as-code är en metod där man skriver och hanterar dokumentation på samma sätt som mjukvaruutvecklare hanterar sin källkod. Det innebär i korthet att man använder enkla textfiler (som Markdown), lagrar dem i versionshantering (som Git) och automatiserar publiceringen.",
+  "source": "@site/docs/Docs-as-code/About Docs-as-code.md",
+  "sourceDirName": "Docs-as-code",
+  "slug": "/Docs-as-code/About Docs-as-code",
+  "permalink": "/docs/Docs-as-code/About Docs-as-code",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs-as-code",
+    "permalink": "/docs/category/docs-as-code"
+  },
+  "next": {
+    "title": "Docusaurus",
+    "permalink": "/docs/Docs-as-code/Docusaurus"
+  }
+}

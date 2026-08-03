@@ -1,0 +1,18 @@
+{
+  "id": "Documentation samples/design-showcase",
+  "title": "Design Showcase",
+  "description": "Use this page for visual work, branding, and design-led storytelling. It can hold mood boards, UI explorations, brand concepts, or polished design systems.",
+  "source": "@site/docs/Documentation samples/design-showcase.md",
+  "sourceDirName": "Documentation samples",
+  "slug": "/Documentation samples/design-showcase",
+  "permalink": "/docs/Documentation samples/design-showcase",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Design Showcase",
+    "sidebar_position": 2
+  }
+}

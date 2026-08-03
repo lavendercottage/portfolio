@@ -1,0 +1,27 @@
+{
+  "id": "projects/design-showcase",
+  "title": "Design Showcase",
+  "description": "Use this page for visual work, branding, and design-led storytelling. It can hold mood boards, UI explorations, brand concepts, or polished design systems.",
+  "source": "@site/docs/projects/design-showcase.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/design-showcase",
+  "permalink": "/docs/projects/design-showcase",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Design Showcase",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projects",
+    "permalink": "/docs/category/projects"
+  },
+  "next": {
+    "title": "Web Portfolio",
+    "permalink": "/docs/projects/web-portfolio"
+  }
+}

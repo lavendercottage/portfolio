@@ -1,0 +1,23 @@
+{
+  "id": "Informationsdesign/Taxonomi",
+  "title": "Taxonomi",
+  "description": "",
+  "source": "@site/docs/Informationsdesign/Taxonomi.md",
+  "sourceDirName": "Informationsdesign",
+  "slug": "/Informationsdesign/Taxonomi",
+  "permalink": "/docs/Informationsdesign/Taxonomi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigering",
+    "permalink": "/docs/Informationsdesign/Navigering"
+  },
+  "next": {
+    "title": "Web Portfolio",
+    "permalink": "/docs/projects/web-portfolio"
+  }
+}
