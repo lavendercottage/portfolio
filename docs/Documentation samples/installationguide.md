@@ -1,4 +1,6 @@
 ---
 title: Installation guide
-sidebar_label: Installation guide
+sidebar_position: 3
 ---
+
+text

@@ -1,4 +1,4 @@
 ---
 title: User guide
-sidebar_label: User guide
+sidebar_position: 4
 ---

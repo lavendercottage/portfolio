@@ -19,8 +19,12 @@ main {
   font-size: var(--ifm-font-size-base);
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: var(--ifm-color-primary);
+h1 {
+  color: #1f9797;
+}
+
+h2, h3, h4, h5, h6 {
+  color: #366363;
 }
 
 h2, h3 {
@@ -152,7 +156,7 @@ h2, h3 {
 .theme-doc-markdown h4,
 .theme-doc-markdown h5,
 .theme-doc-markdown h6 {
-  color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary-dark);
   line-height: 1.25;
   margin-top: 2rem;
   margin-bottom: 0.75rem;

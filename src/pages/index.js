@@ -6,15 +6,15 @@ import Layout from '@theme/Layout';
 const highlights = [
   {
     title: 'Documentation - samples',
-    text: 'I shape thoughtful interfaces that balance aesthetics, usability, and performance.',
+    text: ' Guides, knowledge articles, system docs etc.',
   },
   {
     title: 'Information Design',
-    text: 'From front-end implementation to polished documentation, I enjoy bringing ideas to life.',
+    text: 'Structuring content and designing effective navigation systems.',
   },
   {
     title: 'Docs-as-code',
-    text: 'Every project is framed with context, strategy, and a strong visual narrative.',
+    text: 'Getting started with docs-as-code using Docusaurus, GitHub and Markdown.',
   },
 ];
 

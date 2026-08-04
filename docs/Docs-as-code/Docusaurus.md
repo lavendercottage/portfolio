@@ -15,7 +15,7 @@ Docs-as-code är en metod där man skriver och hanterar dokumentation på samma 
 - Granska som kod: Innan en ändring sparas permanent får en kollega kontrollera texten (en så kallad pull request eller granskning), precis som när man godkänner ny programmeringskod.
 - Automatisk publicering: När ändringen godkänns omvandlas textfilerna automatiskt till en snygg webbsida via ett publiceringsverktyg.
 
-### **Varför man använder metoden**
+## **Varför man använder metoden**
 
 - Hålls aktuell: Eftersom dokumentationen ligger nära koden är det lättare att uppdatera den samtidigt som produkten ändras.
 - Full historik: Du kan se exakt vem som har ändrat vad, när det gjordes, och ångra misstag (tack vare Git).

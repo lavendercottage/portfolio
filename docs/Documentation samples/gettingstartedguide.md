@@ -1,6 +1,6 @@
 ---
-title: Getting started - guide
-sidebar_label: Getting started - guide
+title: Getting started with Docusaurus
+sidebar_position: 2
 ---
 
 
@@ -164,7 +164,7 @@ Ignore for now:
 
 You can get a long way without touching any of this.
 
-## **My plan for you**
+## **Lessons - plan**
 
 I think you’ll learn the fastest if we treat this like a mini-course. We’ll focus on documentation, not programming.
 

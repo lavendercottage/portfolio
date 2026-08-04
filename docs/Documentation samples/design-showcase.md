@@ -1,6 +1,6 @@
 ---
-title: Design Showcase
-sidebar_position: 2
+title: Design showcase
+sidebar_position: 1
 ---
 
 # Design Showcase
