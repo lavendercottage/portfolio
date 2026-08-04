@@ -73,8 +73,9 @@ export default function Home() {
               <h3>Strengths</h3>
               <ul>
                 <li>Experience in ITSM, web design and information design. </li>
-                <li>HTML, CSS, Wordpress</li>
+                <li>Confluence, Wordpress, HTML, CSS </li>
                 <li>Enjoy being in the intersection of users and technology </li>
+                <li>Always curious!</li>
               </ul>
             </div>
           </div>
