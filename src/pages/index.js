@@ -31,7 +31,7 @@ export default function Home() {
         <section className="hero-section">
           <div className="hero-copy">
             <p className="eyebrow">Documentation . Information design . Docs-as-code</p>
-            <h1>Technical Writing Portfolio</h1>
+            <h1>A Technical Writer's Portfolio</h1>
             <p>
               This page is showcasing a docs-as-code workflow with Docusaurus, GitHub and Markdown.
             </p>
@@ -52,7 +52,7 @@ export default function Home() {
               }}
             />
             <div className="hero-card">
-              <h3>Strengths</h3>
+              <h3>My strengths</h3>
               <ul>
                 <li>Experience in ITSM, web design and information design. </li>
                 <li>Confluence, Wordpress, HTML, CSS </li>
