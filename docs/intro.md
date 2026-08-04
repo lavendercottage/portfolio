@@ -8,14 +8,24 @@ sidebar_position: 1
 
 This portfolio is a Docusaurus-based home for work, ideas, and digital storytelling. It is designed to grow as new case studies, projects, and experiences are added.
 
-## What you can expect here
+## Docs-as-code
+[Läs mer](/docs/Docs-as-code/Docusaurus)
 
-- A polished home page for a first impression
-- Project pages for web work and design explorations
-- A simple about section for background and contact details
+- Docusaurus getting started guide
+- Markdown samples
+- GitHub getting started guide
 
-## Suggested next steps
+## Information design
+[Läs mer](/docs/Information design/Information-design-overview)
 
-- Add real case studies and screenshots
-- Expand the project list with fresh work
-- Personalize the branding and intro copy
+- Structuring and navigation
+- Naming standards
+- Metadata
+
+## Documentation samples
+
+- Knowledge articles
+- Runbooks and other guides
+- Templates and forms
+
+

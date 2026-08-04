@@ -18,30 +18,12 @@ const highlights = [
   },
 ];
 
-const galleryImages = [
-  {
-    src: '/img/docu2.jpg',
-    alt: 'Workspace with notes and a laptop',
-  },
-  {
-    src: '/img/docu3.jpg',
-    alt: 'Abstract portfolio illustration',
-  },
-  {
-    src: '/img/docu4.jpg',
-    alt: 'Document planning workspace',
-  },
-];
-
 export default function Home() {
   const heroFallback = useBaseUrl('/img/hero.svg');
   const heroBackground = useBaseUrl('/img/docu1.jpg');
   const introPath = useBaseUrl('/docs/intro');
   const aboutPath = useBaseUrl('/docs/about');
-  const galleryImagesWithBaseUrl = galleryImages.map((image) => ({
-    ...image,
-    src: useBaseUrl(image.src),
-  }));
+
 
   return (
     <Layout title="Home" description="Lavender Cottage portfolio built with Docusaurus.">
@@ -49,9 +31,9 @@ export default function Home() {
         <section className="hero-section">
           <div className="hero-copy">
             <p className="eyebrow">Documentation . Information design . Docs-as-code</p>
-            <h1>Min portfolio</h1>
+            <h1>Technical Writing Portfolio</h1>
             <p>
-              This portfolio is showcasing my latest work and demo samples.
+              This page is showcasing a docs-as-code workflow with Docusaurus, GitHub and Markdown.
             </p>
             <div className="hero-actions">
               <Link className="button button--primary" to={introPath}>
@@ -90,22 +72,7 @@ export default function Home() {
               </article>
             </Link>
           ))}
-        </section>
-
-        <section className="image-row" aria-label="Portfolio highlights">
-          {galleryImagesWithBaseUrl.map((image) => (
-            <img
-              key={image.alt}
-              src={image.src}
-              alt={image.alt}
-              loading="lazy"
-              decoding="async"
-              onError={(event) => {
-                event.currentTarget.src = heroFallback;
-                event.currentTarget.onerror = null;
-              }}
-            />
-          ))}
+      
         </section>
       </main>
     </Layout>
