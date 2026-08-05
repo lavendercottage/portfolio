@@ -6,3 +6,10 @@ sidebar_position: 1
 
 # Knowledge base article
 
+Structure:
+
+- symptom
+- cause
+- resolution
+- troubleshooting
+
