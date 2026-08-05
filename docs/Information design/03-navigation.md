@@ -1,6 +1,7 @@
 ---
-title: Navigation design
-sidebar_position: 2
+title: Navigation
+sidebar_label: Navigation
+sidebar_position: 3
 ---
 
 # Navigation design

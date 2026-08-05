@@ -5,6 +5,8 @@ sidebar_position: 2
 
 # Getting Started with Docusaurus for Technical Writers
 
+This guide is for technical writer looking to enhance their skills and work in a modern Docs-as-code workflow.
+
 
 ### **Step 1 – Create a GitHub account **
 
