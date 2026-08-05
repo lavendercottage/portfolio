@@ -1,5 +1,5 @@
 ---
-title: Getting started with GitHub
+title: Git workflow
 sidebar_position: 3
 ---
 
