@@ -1,6 +1,6 @@
 ---
 title: Om Docs-as-code
-sidebar_label: Om Docs as code med Docusaurus
+sidebar_position: 1
 ---
 
 # **Om Docs-as-code**
