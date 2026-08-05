@@ -6,7 +6,7 @@ sidebar_position: 2
 # Getting Started with Docusaurus for Technical Writers
 
 
-### **Step 1 – Create a GitHub account (if you don't already have one)**
+### **Step 1 – Create a GitHub account **
 
 Go to GitHub and sign in.
 
