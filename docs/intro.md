@@ -9,7 +9,6 @@ sidebar_position: 1
 This portfolio is a Docusaurus-based home for work, ideas, and digital storytelling. It is designed to grow as new case studies, projects, and experiences are added.
 
 ## Docs-as-code
-[Läs mer](/docs/Docs-as-code/Docusaurus)
 
 - Docusaurus getting started guide
 - Markdown samples
