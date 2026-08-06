@@ -39,7 +39,7 @@ Därefter bygger en statisk webbplatsgenerator (SSG), som exempelvis Docusaurus,
 
 Det finns såklart andra verktyg både för redigering och publicering men jag htycker detta är en en bra och stabil kombination. (Under Learnings) kan du läsa mer om hur jag kom fram till vilka verktyg jag skulle använda.
 
-Läs mer här: [Gettings started with Docusaurus-guide](./gettingstartedguide.md).
+Läs mer här: [Gettings started with Docusaurus-guide](./02-gettingstartedguide.md).
 
 ## **VS Code gör Markdown enkelt**
 
@@ -83,5 +83,5 @@ Eftersom alla ändringar sparas i Git finns det alltid en historik över:
 
 Det gör det enklare att underhålla större dokumentationsmängder och att förstå hur innehållet har utvecklats över tid.
 
-För en Technical Writer innebär detta att man inte bara producerar dokumentation, utan blir en aktiv del av teamets arbetsflöde.
+För en Technical Writer innebär detta att man inte bara producerar dokumentation, man blir även en aktiv del av teamets arbetsflöde.
 
