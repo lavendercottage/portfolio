@@ -3,16 +3,21 @@ title: About
 sidebar_position: 3
 ---
 
-# About
+# About me
 
-I’m a multidisciplinary creative who enjoys turning ideas into experiences that are useful, beautiful, and memorable. My work sits at the intersection of design, development, and thoughtful storytelling.
+I'm a technical writer and multidisciplinary creative driven by curiosity and a passion for continuous learning. My work sits at the intersection of design, technology, and user experience.
 
-## What I care about
+## My story
 
-- Clear communication
-- Strong visual systems
-- Human-centered design
-- Building things that feel polished and intentional
+This portfolio started with a simple question: *What exactly is Docs-as-Code?*
+
+At the time, I knew almost nothing about it. As someone aleady working in technical writing (but in a different branch), I saw it as an important skill and decided that the best way to learn was to build something real.
+
+This website became my learning project. With plenty of curiosity, persistence, and AI as a learning partner, I explored unfamiliar tools, solved problems one step at a time, and gradually built a working documentation site using a static site generator and a Docs-as-Code workflow.
+
+Getting the site up and running was my first milestone. It represents much more than a finished website—it represents the process of learning, experimenting, making mistakes, and improving along the way.
+
+The portfolio is a living project. As I continue to develop my skills, I'll keep adding new documentation examples, workflows, and case studies. My goal isn't just to showcase what I already know, but to demonstrate how I learn, adapt, and turn new knowledge into practical results.
 
 ## Contact
 

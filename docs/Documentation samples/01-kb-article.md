@@ -13,3 +13,14 @@ Structure:
 - resolution
 - troubleshooting
 
+
+
+---
+
+
+>**Documentation notes:**
+- Document type: Knowledge base article
+- Target audience: Support
+- Tools: Markdown, VS Code, Docusaurus, GitHub
+- Focus: Stuctured writing
+
