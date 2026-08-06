@@ -9,6 +9,19 @@ Engelsk version:
 
 # **Om Docs-as-code**
 
+        Knowledge Creation
+                ↓
+        Markdown Documentation
+                ↓
+        Git + Version Control
+                ↓
+        Docusaurus Build
+                ↓
+        Published Documentation Site
+
+
+Writer  ←→  Developer  ←→  User
+
 Docs-as-code är en metod där man skriver och hanterar dokumentation på samma sätt som mjukvaruutvecklare hanterar sin källkod. Det innebär i korthet att man använder enkla textfiler (som Markdown), lagrar dem i versionshantering (som Git) och automatiserar publiceringen.
 
 
