@@ -150,3 +150,8 @@ The site updates automatically.
 
 That’s one of the major advantages of Docusaurus.
 
+<br />
+
+**Se även:**
+
+- [Git Workflow-guide](./03-git-workflow.md).

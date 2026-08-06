@@ -253,3 +253,28 @@ h2, h3 {
     grid-template-columns: 1fr;
   }
 }
+
+/* Compact admonitions */
+.theme-admonition {
+  font-size: 0.85rem;
+  line-height: 1.35;
+}
+
+.theme-admonition p {
+  margin-bottom: 0.4rem;
+}
+
+.theme-admonition ul {
+  margin-bottom: 0;
+}
+
+.theme-admonition li {
+  margin-bottom: 0.15rem;
+}
+
+.markdown h2,
+.markdown h3,
+.markdown h4 {
+  border-bottom: none;
+
+}

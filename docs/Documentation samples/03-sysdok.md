@@ -196,9 +196,8 @@ Document known issues and constraints.
 
 ---
 
-:::note
+:::note **Documentation notes:**
 
-**Documentation notes:**
 - Document type: System documentation 
 - Target audience: IT Operations
 - Tools: Markdown, VS Code, Docusaurus, GitHub

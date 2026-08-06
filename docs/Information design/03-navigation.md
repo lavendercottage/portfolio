@@ -6,4 +6,18 @@ sidebar_position: 3
 
 # Navigation design
 
-xxx
+Work in progress...
+
+
+
+
+
+
+:::note **Documentation notes:**
+
+- Document type: Navigation design
+- Target audience: Support
+- Tools: Markdown, VS Code, Docusaurus, GitHub, Draw.io
+- Focus: Stuctured writing, visual design
+
+:::

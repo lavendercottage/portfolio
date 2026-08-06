@@ -8,3 +8,14 @@ sidebar_position: 1
 
 
 
+:::note **Documentation notes:**
+
+- Document type: Information design
+- Target audience: IT Management
+- Tools: Markdown, VS Code, Docusaurus, GitHub
+- Focus: Stuctured writing
+
+:::
+
+
+

@@ -4,6 +4,16 @@ sidebar_label: Workflow
 sidebar_position: 4
 ---
 
+:::note **Documentation notes:**
+
+- Document type: Workflow
+- Target audience: IT Management, developers, technicians
+- Tools: Markdown, VS Code, Docusaurus, GitHub, Draw.io
+- Focus: Visual design and structured writing
+
+:::
+
+
 # Workflow: Git and Docusaurus Publishing
 
 ## Purpose
@@ -185,3 +195,8 @@ Confirm:
 * Run a build before pushing.
 * Review GitHub Actions after every push.
 * Verify the published site.
+
+---
+
+
+

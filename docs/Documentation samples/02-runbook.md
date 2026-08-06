@@ -137,9 +137,12 @@ Contact:
 | 1.0     | YYYY-MM-DD |        | Initial version |
 
 
->**Documentation notes:**
-- Document type: Runbook
+:::note **Documentation notes:**
+
+- Document type: Runbook template
 - Target audience: IT Operations
 - Tools: Markdown, VS Code, Docusaurus, GitHub
 - Focus: Stuctured writing
+
+:::
 
