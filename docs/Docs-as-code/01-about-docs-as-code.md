@@ -47,6 +47,8 @@ Läs mer här: [Gettings started with Docusaurus-guide](./02-gettingstartedguide
 - I VS Code tvingas du skriva de faktiska tecknen (som #, ** och parenteser) med tangentbordet. Det gör att du snabbt nöter in grunderna i muskelminnet, vilket gör dig till en mer universell och flexibel teknisk skribent.
 - I VS Code preview ser du hela tiden det färdiga resultatet.
 
+![Preview i VS Code](./vscode-preview.png)
+
 ## Samarbete med utvecklare och tekniker
 
 En av de stora styrkorna med GitHub och Docs-as-Code är att dokumentationen kan utvecklas i samma miljö och med liknande arbetssätt som källkoden. Det gör samarbetet mellan tekniska skribenter, utvecklare och tekniker enklare och mer transparent.
