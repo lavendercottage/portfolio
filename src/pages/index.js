@@ -52,13 +52,8 @@ export default function Home() {
               }}
             />
             <div className="hero-card">
-              <h3>My strengths</h3>
-              <ul>
-                <li>Experience in ITSM, web design and information design. </li>
-                <li>Confluence, Wordpress, HTML, CSS </li>
-                <li>Enjoy being in the intersection of users and technology </li>
-                <li>Always curious!</li>
-              </ul>
+              <h4>"It is my ambition to say in ten sentences what others say in a whole book." F. Nietzsche"</h4>
+    
             </div>
           </div>
         </section>
