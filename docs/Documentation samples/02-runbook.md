@@ -4,7 +4,6 @@ sidebar_label: Runbook
 sidebar_position: 2
 ---
  
-# Runbook
 
 # Runbook Template
 
@@ -138,4 +137,9 @@ Contact:
 | 1.0     | YYYY-MM-DD |        | Initial version |
 
 
+>**Documentation notes:**
+- Document type: Runbook
+- Target audience: IT Operations
+- Tools: Markdown, VS Code, Docusaurus, GitHub
+- Focus: Stuctured writing
 

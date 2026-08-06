@@ -194,5 +194,15 @@ Document known issues and constraints.
 | ------- | ---------- | ------ | --------------- |
 | 1.0     | YYYY-MM-DD |        | Initial version |
 
+---
 
+:::note
+
+**Documentation notes:**
+- Document type: System documentation 
+- Target audience: IT Operations
+- Tools: Markdown, VS Code, Docusaurus, GitHub
+- Focus: Structured writing
+
+:::
 
