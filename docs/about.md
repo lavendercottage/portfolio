@@ -11,7 +11,7 @@ I'm a technical writer and multidisciplinary creative driven by curiosity and a 
 
 This portfolio started with a simple question: *What exactly is Docs-as-Code?*
 
-At the time, I knew almost nothing about it. As someone aleady working in technical writing (but in a different branch), I saw it as an important skill and decided that the best way to learn was to build something real.
+At the time, I knew almost nothing about it. As someone already working with technical writing in another field, I was curious to explore new tools, workflows, and ways of creating documentation.
 
 This website became my learning project. With plenty of curiosity, persistence, and AI as a learning partner, I explored unfamiliar tools, solved problems one step at a time, and gradually built a working documentation site using a static site generator and a Docs-as-Code workflow.
 
