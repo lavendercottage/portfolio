@@ -24,7 +24,7 @@ Finding an environment where I could work efficiently was an important part of t
 
 Understanding the relationship between the editor and GitHub repository took some time, but eventually became part of my normal workflow.
 
-### Understanding the concept
+## Understanding the concept
 
 Another challenge was understanding how a Docusaurus project is organised. Where the important files are located, what you can do and what you should stay away from...
 
@@ -32,7 +32,7 @@ Instead of editing pages through a visual interface (like Wordpress), I needed t
 
 Version control with Git was another new concept. As the project progressed, committing changes to GitHub became a natural habit and helped me work more confidently, knowing I could always return to an earlier version if needed.
 
-### Troubleshooting 
+## Troubleshooting 
 
 Rather than following a fixed tutorial, I chose to solve each problem as it appeared. Looking back, these challenges became some of the most valuable learning experiences of the project.
 

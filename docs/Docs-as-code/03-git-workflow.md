@@ -3,7 +3,7 @@ title: Git workflow
 sidebar_position: 3
 ---
 
-# Getting started with GitHub - for Technical writers
+# The GitHub concept - for Technical writers
 
 If you're new to GitHub, it can seem more technical than it really is. For a technical writer, you mainly need to understand a few basic concepts to work with Docusaurus.
 

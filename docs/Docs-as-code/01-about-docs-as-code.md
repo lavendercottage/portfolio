@@ -16,8 +16,7 @@ Docs-as-code is a method where documentation is written and managed in the same 
 - The site is published using a service such as GitHub Pages
 - You collaborate with colleagues and developers through a standard publishing workflow
 
-
->**Documentation becomes part of the workflow, instead of a separate activity.** 
+>**Documentation becomes part of the workflow, instead of a separate activity.**
 
 ## Using Static site generators
 
@@ -39,13 +38,7 @@ One of the main strengths of GitHub and Docs-as-Code is that documentation can b
 
 Instead of sending documents back and forth by email or using separate review processes, everyone can work with the same files, the same version history, and the same workflow.
 
-### One common source of information
-
-With a Docs-as-Code workflow, documentation becomes part of the development process.
-
-This reduces the risk of documentation becoming outdated and creates a natural connection between software development and end-user information.
-
-### Version history and traceability
+### Version history
 
 Since all changes are stored in Git, there is always a complete history of:
 
@@ -56,6 +49,7 @@ Since all changes are stored in Git, there is always a complete history of:
 
 For a Technical Writer, this means that the role is not only about creating documentation. It also means becoming an active part of the team's development workflow.
 
-See **Learnings** to read more about how I arrived at the tools I chose. [Learnings](./05-learnings.md)
+See **Learnings** to read more about how I arrived at the tools I chose for this project. [Learnings](./05-learnings.md)
 
 Keen on trying for yourself? Here's my hands-on-guide: [Getting started with Docusaurus](./02-gettingstartedguide.md).
+
