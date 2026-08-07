@@ -12,6 +12,7 @@ sidebar_position: 1
 
 :::
 
+# Knowledge base article template
 
 ## Example 1: User Cannot Log In
 

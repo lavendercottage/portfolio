@@ -4,7 +4,7 @@ sidebar_label: Visual documentation
 sidebar_position: 5
 ---
 
-::note **Documentation sample notes:**
+:::note **Documentation sample notes:**
 
 - Type: Visual documentation
 - Focus: Visual design
