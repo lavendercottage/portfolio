@@ -10,17 +10,16 @@ Docs-as-code is a method where documentation is written and managed in the same 
 ## **How it works**
 
 - You write in Markdown (instead of Word or similar tools)
-- You use an editor, such as VS Code
+- You use a Markdown editor, such as VS Code
 - The files are stored in a Git repository
-- You build the site using a static site generator, such as Docusaurus
+- You build the site using a static site generator (SSG), such as Docusaurus
 - The site is published using a service such as GitHub Pages
 - You collaborate with colleagues and developers through a standard publishing workflow
 
-## **Important advantages with this method**
+´´´
+**Documentation becomes part of the workflow** – Documentation becomes part of the development process instead of a separate activity.
 
-- **Consistent and reusable content** – Content can be structured, reused, and maintained more easily.
-- **Better version control** – Changes are tracked, making it easy to see what changed and when.
-- **Documentation becomes part of the workflow** – Documentation becomes part of the development process instead of a separate activity.
+´´´
 
 ## Using Static site generators
 
@@ -48,35 +47,21 @@ One of the main strengths of GitHub and Docs-as-Code is that documentation can b
 
 Instead of sending documents back and forth by email or using separate review processes, everyone can work with the same files, the same version history, and the same workflow.
 
-### Gemensamma granskningar (Pull Requests)
+### One common source of information
 
-När en dokumentationsändring är klar kan den skickas in som en **Pull Request (PR)** för granskning. En utvecklare eller teknisk expert kan läggas till som **Reviewer** och lämna kommentarer direkt på specifika rader i Markdown-filen.
+With a Docs-as-Code workflow, documentation becomes part of the development process.
 
-Det gör det enkelt att:
+This reduces the risk of documentation becoming outdated and creates a natural connection between software development and end-user information.
 
-* kontrollera att tekniska detaljer är korrekta
-* ställa frågor direkt där något behöver förtydligas
-* föreslå förbättringar utan att ändra originaltexten
-* följa hela diskussionen kopplad till en specifik ändring
+### Version history and traceability
 
-När alla synpunkter är hanterade kan ändringen godkännas och publiceras.
+Since all changes are stored in Git, there is always a complete history of:
 
-### En gemensam källa för information
+* what was changed
+* who made the change
+* when the change was made
+* why the decision was made
 
-Med ett Docs-as-Code-arbetsflöde blir dokumentationen en del av utvecklingsprocessen. När en funktion förändras i en produkt kan utvecklare och tekniska skribenter samarbeta kring uppdateringen av dokumentationen på samma plats.
+For a Technical Writer, this means that the role is not only about creating documentation. It also means becoming an active part of the team's development workflow.
 
-Det minskar risken att dokumentation blir inaktuell och skapar en naturlig koppling mellan produktutveckling och användarinformation.
-
-### Versionshistorik och spårbarhet
-
-Eftersom alla ändringar sparas i Git finns det alltid en historik över:
-
-* vad som ändrades
-* vem som gjorde ändringen
-* när ändringen gjordes
-* varför beslutet togs
-
-Det gör det enklare att underhålla större dokumentationsmängder och att förstå hur innehållet har utvecklats över tid.
-
-För en Technical Writer innebär detta att man inte bara producerar dokumentation, man blir även en aktiv del av teamets arbetsflöde.
 
