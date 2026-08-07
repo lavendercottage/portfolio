@@ -37,7 +37,7 @@ After completing this guide, you will be able to:
 
 Before you begin, make sure you have:
 
-* A GitHub account
+* A GitHub account See [Git workflow](./03-git-workflow.md)
 * Visual Studio Code installed
 
 ## Do I need coding experience?
@@ -212,7 +212,6 @@ If it doesn't:
 ```
 http://localhost:3000
 ```
-
 
 ## Step 9 – Edit Your First Page
 

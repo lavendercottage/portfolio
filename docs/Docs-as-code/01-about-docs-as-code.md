@@ -25,7 +25,7 @@ A static site generator (SSG) works differently from a traditional WYSIWYG edito
 
 Content can be reused, tracked in version control, and reviewed as part of a structured workflow. The result is a more efficient and flexible way of creating and maintaining technical documentation.
 
-## **VS Code makes Markdown feel like a walk in the park**
+## **VS Code makes Markdown a walk in the park**
 
 - VS Code is the perfect tool för learning Markdown.
 - In VS Code, you are forced to write the actual Markdown code using your keyboard. This helps you quickly build the basics into muscle memory.
