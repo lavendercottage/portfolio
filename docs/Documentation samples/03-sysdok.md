@@ -4,7 +4,13 @@ sidebar_label: System documentation
 sidebar_position: 3
 ---
 
-# System documentation
+:::note **Documentation sample notes:**
+
+- Type: System documentation
+- Focus: Structured writing
+- Last updated: 260807
+
+:::
 
 # System Documentation Template
 
@@ -19,9 +25,8 @@ Include:
 * Primary users
 * Key functionality
 
----
-
 ## System Information
+
 
 | Item         | Description                     |
 | ------------ | ------------------------------- |
@@ -32,7 +37,6 @@ Include:
 | Vendor       |                                 |
 | Support team |                                 |
 
----
 
 ## Architecture
 
@@ -47,7 +51,6 @@ Include:
 
 *(Insert architecture diagram here)*
 
----
 
 ## Components
 
@@ -59,7 +62,6 @@ Describe the main system components.
 |           |             |
 |           |             |
 
----
 
 ## User Roles and Permissions
 
@@ -71,7 +73,6 @@ Describe the available user roles.
 |      |             |
 |      |             |
 
----
 
 ## Navigation
 
@@ -84,7 +85,6 @@ Example:
 * Reports
 * Settings
 
----
 
 ## Configuration
 
@@ -97,7 +97,6 @@ Include:
 * Configuration files
 * Feature flags
 
----
 
 ## Integrations
 
@@ -108,7 +107,6 @@ Describe integrations with other systems.
 |        |         |        |
 |        |         |        |
 
----
 
 ## Data Management
 
@@ -122,7 +120,6 @@ Include:
 * Retention
 * Archiving
 
----
 
 ## Security
 
@@ -135,7 +132,6 @@ Include:
 * Encryption
 * Audit logging
 
----
 
 ## Monitoring and Logging
 
@@ -148,7 +144,6 @@ Include:
 * Alerts
 * Performance monitoring
 
----
 
 ## Maintenance
 
@@ -161,13 +156,9 @@ Examples:
 * Certificate renewal
 * Software updates
 
----
-
 ## Known Limitations
 
 Document known issues and constraints.
-
----
 
 ## Troubleshooting
 
@@ -175,8 +166,6 @@ Document known issues and constraints.
 | ----- | -------------- | ---------- |
 |       |                |            |
 |       |                |            |
-
----
 
 ## Related Documentation
 
@@ -186,7 +175,6 @@ Document known issues and constraints.
 * Runbook
 * Knowledge Base Articles
 
----
 
 ## Revision History
 
@@ -194,14 +182,4 @@ Document known issues and constraints.
 | ------- | ---------- | ------ | --------------- |
 | 1.0     | YYYY-MM-DD |        | Initial version |
 
----
-
-:::note **Documentation notes:**
-
-- Document type: System documentation 
-- Target audience: IT Operations
-- Tools: Markdown, VS Code, Docusaurus, GitHub
-- Focus: Structured writing
-
-:::
 

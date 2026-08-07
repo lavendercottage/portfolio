@@ -13,14 +13,12 @@ sidebar_position: 4
 
 :::
 
-
 # Workflow: Git and Docusaurus Publishing
 
 ## Purpose
 
 This workflow describes the standard process for creating, reviewing, and publishing documentation using Docusaurus, Git, and GitHub.
 
----
 
 ## Workflow Overview
 
@@ -80,7 +78,6 @@ updated          Fix issue
        Finish
 ```
 
----
 
 # Workflow Steps
 
@@ -92,7 +89,6 @@ Output:
 
 * Local repository is up to date.
 
----
 
 ## 2. Start Development Environment
 
@@ -102,7 +98,6 @@ Output:
 
 * Local preview available.
 
----
 
 ## 3. Create or Update Documentation
 
@@ -115,7 +110,6 @@ Typical activities:
 * Add images
 * Create new pages
 
----
 
 ## 4. Preview
 
@@ -128,8 +122,6 @@ Verify:
 * Links
 * Images
 
----
-
 ## 5. Validate
 
 Run a production build.
@@ -140,15 +132,11 @@ Purpose:
 * Detect missing pages
 * Detect build errors
 
----
-
 ## 6. Version Control
 
 Commit the completed changes.
 
 Use small, meaningful commits.
-
----
 
 ## 7. Publish
 
@@ -160,8 +148,6 @@ GitHub Actions automatically:
 * Performs validation
 * Deploys to GitHub Pages
 
----
-
 ## 8. Verify
 
 Open GitHub Pages.
@@ -172,9 +158,7 @@ Confirm:
 * Navigation works
 * Links function correctly
 
----
-
-# Common Failure Points
+## Common Failure Points
 
 | Step           | Typical Issue          |
 | -------------- | ---------------------- |
@@ -186,9 +170,8 @@ Confirm:
 | GitHub Actions | Build failure          |
 | Deployment     | Cached browser content |
 
----
 
-# Best Practices
+## Best Practices
 
 * Pull before starting work.
 * Commit small changes frequently.
@@ -196,7 +179,6 @@ Confirm:
 * Review GitHub Actions after every push.
 * Verify the published site.
 
----
 
 
 

@@ -4,6 +4,13 @@ sidebar_label: Runbook
 sidebar_position: 2
 ---
  
+:::note **Documentation sample notes:**
+
+- Type: Runbook
+- Focus: Structured writing
+- Last updated: 260807
+
+:::
 
 # Runbook Template
 

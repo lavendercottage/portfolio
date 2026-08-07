@@ -4,22 +4,20 @@ sidebar_label: Visual documentation
 sidebar_position: 5
 ---
 
+::note **Documentation sample notes:**
+
+- Type: Visual documentation
+- Focus: Visual design
+- Last updated: 260807
+
+:::
+
 # Visual documentation
 
 Exempel:
 
-- Processflöden
-- Beslutsträd
-- Informationsarkitektur
+- Process flows
+- Infografik
 - Sitemaps
 - Wireframes
-- Systemöversikter
-
-:::note **Documentation notes:**
-
-- Document type: Visual documentation
-- Target audience: IT Management, Operations, Support
-- Tools: Markdown, VS Code, Docusaurus, GitHub, Draw.io
-- Focus: Visual design
-
-:::
+- Flow charts
