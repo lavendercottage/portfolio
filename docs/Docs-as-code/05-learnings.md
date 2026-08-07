@@ -41,13 +41,11 @@ Solving them patiently improved my understanding of how the different tools inte
 
 ## Responsive design – a reflection
 
-## Responsive design in Docusaurus
-
 When I built my site in Docusaurus, I was surprised by how little work was needed to make it responsive. The layout automatically adapts to different screen sizes and works well on desktop, tablet and mobile.
 
 Compared with a modern WordPress theme, however, Docusaurus offers less ready-made visual flexibility. WordPress gives you many options to adjust layouts, images and design elements, while Docusaurus focuses more on content, structure and readability.
 
-For me, this meant thinking less about visual design and more about how the content was structured and presented. 
+Coming from a visual design background, this was a shift in mindset: focusing less on visual appearance and more on content structure, readability, and user needs.
 
 My conclusion is that Docusaurus works very well for content-driven websites and documentation, while WordPress offers more freedom for visually complex websites.
 
