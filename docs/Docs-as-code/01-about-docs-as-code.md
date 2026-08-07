@@ -3,31 +3,14 @@ title: About Docs-as-code
 sidebar_position: 1
 ---
 
-Svensk version: 
-Engelsk version: 
+![The workflow](./dac-wf.png)
 
-
-# **Om Docs-as-code**
-
-        Knowledge Creation
-                ↓
-        Markdown Documentation
-                ↓
-        Git + Version Control
-                ↓
-        Docusaurus Build
-                ↓
-        Published Documentation Site
-
-
-Writer  ←→  Developer  ←→  User
-
-Docs-as-code är en metod där man skriver och hanterar dokumentation på samma sätt som mjukvaruutvecklare hanterar sin källkod. Det innebär i korthet att man använder enkla textfiler (som Markdown), lagrar dem i versionshantering (som Git) och automatiserar publiceringen.
+Docs-as-code is a method where documentation is written and managed in the same way that software developers manage their source code. In short, it means using simple text files (such as Markdown), storing them in version control systems (such as Git), and automating the publishing process.
 
 
 ## **Hur det fungerar i praktiken**
 
-- Skriva i klartext: Du använder enkla format som Markdown i stället för tunga ordbehandlare som Microsoft Word. Texten sparas i filer med filändelsen .md.
+- Du använder Markdown i stället för ordebehandlare som Word till exempel. Texten sparas med filändelsen .md.
 - Lagra tillsammans med koden: Dokumentationen sparas i samma system (exempelvis GitHub eller GitLab) som själva programvaran.
 - Granska som kod: Innan en ändring sparas permanent kan en kollega kontrollera texten (en så kallad pull request eller granskning), precis som ett traditionellt granskningsflöde.
 - Automatisk publicering: När ändringen godkänns omvandlas textfilerna automatiskt till en snygg webbsida via ett publiceringsverktyg.
