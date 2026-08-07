@@ -5,9 +5,7 @@ sidebar_position: 6
 
 # My toolbox 
 
-Here's a shortlist of the tools I am using in this particular project:
-
-## Docs-as-code
+Here's a shortlist of the tools I have been using in this particular project:
 
 - VS Code editor
 - Markdown

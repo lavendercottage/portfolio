@@ -12,30 +12,24 @@ sidebar_position: 1
 
 :::
 
-**Please note that this is a template and content structure may be changed according to specific situations.**
 
-
-# Example: User Cannot Log In
-
-## Issue
+## Example 1: User Cannot Log In
 
 *Describe the problem from the user's perspective.*
 
-Example:
+**Example:**
 
 Users receive an error message when trying to sign in to the application.
 
 ---
 
-## Symptoms
+### Symptoms
 
-The issue may include:
+*The issue may include:*
 
-- Login page loads normally.
-- User enters valid credentials.
+- Login page loads normally
+- User enters valid credentials
 - Error message appears after submitting credentials.
-
-<br />
 
 Example error:
 
@@ -43,7 +37,7 @@ Example error:
 
 ---
 
-## Affected Systems
+### Affected Systems
 
 | Item | Description |
 |------|-------------|
@@ -53,9 +47,9 @@ Example error:
 
 <br />
 
-# Troubleshooting Steps
+### Troubleshooting Steps
 
-## Step 1 – Verify the issue
+#### Step 1 – Verify the issue
 
 Check that:
 
@@ -69,7 +63,7 @@ The issue is confirmed.
 
 ---
 
-## Step 2 – Check user account status
+#### Step 2 – Check user account status
 
 Verify:
 
@@ -83,7 +77,7 @@ Reactivate the account or update permissions if required.
 
 ---
 
-## Step 3 – Check service status
+#### Step 3 – Check service status
 
 Verify that required services are running.
 
@@ -99,7 +93,7 @@ All services report normal status.
 
 ---
 
-## Step 4 – Clear local data
+#### Step 4 – Clear local data
 
 Ask the user to:
 
@@ -110,7 +104,7 @@ Ask the user to:
 
 ---
 
-# Resolution
+### Resolution
 
 The issue is resolved when:
 
@@ -119,7 +113,7 @@ The issue is resolved when:
 
 ---
 
-# Escalation
+### Escalation
 
 Contact support if:
 
@@ -137,7 +131,7 @@ Provide:
 
 ---
 
-# Related Articles
+### Related Articles
 
 *Examples:*
 

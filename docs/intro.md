@@ -11,11 +11,12 @@ This portfolio is a Docusaurus-based home for work, ideas and hands-on learning.
 
 ## Site structure
 
-My ambition has been to create a simple and clear site structure.
-You will find the following:
-- A Docs-as-code chapter explaining the concept
-- Documentation samples
-- A chapter on Information design
+My aim is to create a simple and easy-to-navigate site where you can explore:
+
+* **Docs-as-Code** – An introduction to the concept and workflow.
+* **Documentation examples** – A mix of fictional examples and practical guides you can follow and try for yourself.
+* **Information Design** – Reflections on how to structure documentation, concepts on visual design, and thoughts on how good UX can improve usability and experience.
+
 
 >**This site is best experienced using the navigation sidebar**
 

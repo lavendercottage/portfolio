@@ -16,22 +16,14 @@ Docs-as-code is a method where documentation is written and managed in the same 
 - The site is published using a service such as GitHub Pages
 - You collaborate with colleagues and developers through a standard publishing workflow
 
-´´´
-**Documentation becomes part of the workflow** – Documentation becomes part of the development process instead of a separate activity.
 
-´´´
+>**Documentation becomes part of the workflow, instead of a separate activity.** 
 
 ## Using Static site generators
 
-A static site generator works differently from a traditional WYSIWYG editor. Instead of a drag-and-drop editor and modules to build the page, you write structured content in Markdown and use CSS to control the overall layout, styling, and visual appearance. 
+A static site generator (SSG) works differently from a traditional WYSIWYG editor. Instead of drag-and-drop, and using modules to build the page, you write structured content in Markdown. CSS is used to control the overall styling and visual appearance. 
 
-This separates the content from the design, making it easier to keep documentation consistent and updated over time. Content can also be reused, tracked in version control, and reviewed as part of a structured workflow. 
-
-The result is a more efficient and flexible way of creating and maintaining technical documentation.
-
-See **Learnings**, where you can read more about how I arrived at the tools I chose. [Learnings](./05-learnings.md)
-
-Keen on trying for yourself? Here's my hands-on-guide: [Gettings started with Docusaurus](./02-gettingstartedguide.md).
+Content can be reused, tracked in version control, and reviewed as part of a structured workflow. The result is a more efficient and flexible way of creating and maintaining technical documentation.
 
 ## **VS Code makes Markdown feel like a walk in the park**
 
@@ -64,4 +56,6 @@ Since all changes are stored in Git, there is always a complete history of:
 
 For a Technical Writer, this means that the role is not only about creating documentation. It also means becoming an active part of the team's development workflow.
 
+See **Learnings** to read more about how I arrived at the tools I chose. [Learnings](./05-learnings.md)
 
+Keen on trying for yourself? Here's my hands-on-guide: [Getting started with Docusaurus](./02-gettingstartedguide.md).

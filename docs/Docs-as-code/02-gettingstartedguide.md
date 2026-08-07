@@ -3,11 +3,9 @@ title: Gettings started with Docusaurus
 sidebar_position: 2
 ---
 
-# Getting Started with Docusaurus (Local Development)
+# A Beginner's Guide to getting started with Docusaurus
 
-## A Beginner's Guide for Technical Writers
-
-### Introduction
+## Introduction
 
 This guide explains how to set up a Docusaurus documentation project using **GitHub** and **Visual Studio Code** on your local computer.
 
@@ -21,7 +19,19 @@ After completing this guide, you will be able to:
 * Save your work with Git
 * Publish updates automatically using GitHub Pages
 
-No previous experience with Git or Node.js is required.
+## Types of documentation you can create
+
+* User Guides and How to's
+* Installation Guides
+* Manuals
+* Runbooks
+* Knowledge Base Articles
+* System Documentation
+* Documentation Templates
+* API documentation
+* Summary and Read me-files
+* Complete documentation websites
+* and more...
 
 ## Prerequisites
 
@@ -29,28 +39,29 @@ Before you begin, make sure you have:
 
 * A GitHub account
 * Visual Studio Code installed
-* An internet connection
 
+## Do I need coding experience?
+
+No.
+
+But it helps to understand a little about:
+
+- Markdown
+- HTML
+- CSS
+- Using a terminal
+
+You get in to it a bit quicker, that's all.
 
 ## Step 1 – Create a GitHub Repository
 
 1. Sign in to GitHub.
 2. Click **New Repository**.
 3. Give the repository a name.
-
-Example:
-
-```
-documentation-portfolio
-```
-
 4. Select:
-
-* Public (recommended for a portfolio)
-* Add a README
-
+*   Public (recommended for a portfolio)
+*   Add a README
 5. Click **Create Repository**.
-
 
 ## Step 2 – Install Git
 
@@ -80,7 +91,6 @@ Verify the installation:
 git --version
 ```
 
-
 ### Windows
 
 Download Git from:
@@ -94,7 +104,6 @@ Verify:
 ```powershell
 git --version
 ```
-
 
 ## Step 3 – Install Node.js
 
@@ -155,13 +164,6 @@ Either:
 
 **File → Open Folder**
 
-or
-
-```bash
-code documentation-portfolio
-```
-
-
 ## Step 6 – Create a Docusaurus Site
 
 Inside the cloned repository run:
@@ -173,7 +175,6 @@ npx create-docusaurus@latest . classic
 Notice the dot (`.`).
 
 It tells Docusaurus to install into the current repository.
-
 
 ## Step 7 – Install Dependencies
 
@@ -320,95 +321,6 @@ git commit -m "Describe your changes"
 git push
 ```
 
-
-### Recommended VS Code Extensions
-
-* Markdown All in One
-* markdownlint
-* MDX
-* GitLens (optional)
-
-
-## Common Beginner Mistakes
-
-### Forgetting to pull
-
-Always begin with:
-
-```bash
-git pull
-```
-
-
-### Editing directly on GitHub
-
-Avoid editing documentation in the browser.
-
-Use Visual Studio Code instead.
-
-
-### Forgetting to build
-
-Always run:
-
-```bash
-npm run build
-```
-
-before pushing.
-
----
-
-### Broken Links
-
-Docusaurus stops publishing if a link is broken.
-
-This is intentional.
-
-Fix the link before pushing.
-
----
-
-## MDX Errors
-
-Example:
-
-```
-Expected closing tag for <br>
-```
-
-Correct:
-
-```html
-<br />
-```
-
-Incorrect:
-
-```html
-<br>
-```
-
----
-
-### GitHub Actions Fail
-
-If you see messages such as:
-
-```
-Runner unavailable
-```
-
-or
-
-```
-Internal server error
-```
-
-check GitHub Status before troubleshooting your project.
-
----
-
 ### Folder Structure
 
 ```
@@ -425,18 +337,6 @@ package.json
 
 ---
 
-## Next Steps
-
-Once the site is running, you can begin creating:
-
-* User Guides
-* Installation Guides
-* Runbooks
-* Knowledge Base Articles
-* System Documentation
-* Documentation Templates
-
 Congratulations!
 
-You now have a professional Docs-as-Code environment running locally with GitHub, Visual Studio Code, and Docusaurus.
-
+You should now have a professional Docs-as-Code environment running locally with GitHub, Visual Studio Code, and Docusaurus.
