@@ -5,9 +5,9 @@ sidebar_position: 3
 
 # About me
 
-I'm a technical writer and multidisciplinary creative driven by curiosity and a passion for continuous learning. My work sits at the intersection of design, technology, and user experience.
+I'm a technical writer and creative professional driven by curiosity and a passion for continuous learning. My work sits at the intersection of design, technology, and user experience.
 
-## My story
+## The story behind this project
 
 This portfolio started with a simple question: *What exactly is Docs-as-Code?*
 

@@ -5,56 +5,48 @@ sidebar_position: 1
 
 ![The workflow](./dac-wf.png)
 
-Docs-as-code is a method where documentation is written and managed in the same way that software developers manage their source code. In short, it means using simple text files (such as Markdown), storing them in version control systems (such as Git), and automating the publishing process.
+Docs-as-code is a method where documentation is written and managed in the same way that developers manage their code. It means using simple text files (such as Markdown), storing and collaborating in a version control system (such as Git), and automating the publishing process.
 
+## **How it works**
 
-## **Hur det fungerar i praktiken**
+- You write in Markdown (instead of Word or similar tools)
+- You use an editor, such as VS Code
+- The files are stored in a Git repository
+- You build the site using a static site generator, such as Docusaurus
+- The site is published using a service such as GitHub Pages
+- You collaborate with colleagues and developers through a standard publishing workflow
 
-- Du skriver i Markdown (istället för Word eller liknande)
-- Du använder en Markdown-editor som exempelvis VS Code.
-- Filerna lagras på ett Git repository
-- Dokumentation kan granskas som i ett vanligt publiceringsflöde
+## **Important advantages with this method**
 
-- Du använder Markdown i stället för ordbehandlare som Word till exempel. Texten sparas med filändelsen .md.
-- Lagra tillsammans med koden: Dokumentationen sparas i samma system (exempelvis GitHub eller GitLab) som själva programvaran.
-- Granska som kod: Innan en ändring sparas permanent kan en kollega kontrollera texten (en så kallad pull request eller granskning), precis som ett traditionellt granskningsflöde.
-- Automatisk publicering: När ändringen godkänns omvandlas textfilerna automatiskt till en snygg webbsida via ett publiceringsverktyg.
+- **Consistent and reusable content** – Content can be structured, reused, and maintained more easily.
+- **Better version control** – Changes are tracked, making it easy to see what changed and when.
+- **Documentation becomes part of the workflow** – Documentation becomes part of the development process instead of a separate activity.
 
-## **Viktiga fördelar med metoden**
+## Using Static site generators
 
-- Full historik: Du kan se exakt vem som har ändrat vad, när det gjordes, och ångra misstag (tack vare Git).
-- Bättre samarbete: Utvecklare och tekniska skribenter arbetar i samma verktyg och följer samma fasta rutiner.
+A static site generator works differently from a traditional WYSIWYG editor. Instead of a drag-and-drop editor and modules to build the page, you write structured content in Markdown and use CSS to control the overall layout, styling, and visual appearance. 
 
+This separates the content from the design, making it easier to keep documentation consistent and updated over time. Content can also be reused, tracked in version control, and reviewed as part of a structured workflow. 
 
-## Det bästa av två världar ##
+The result is a more efficient and flexible way of creating and maintaining technical documentation.
 
-**Enkelheten i att skriva textfiler i Markdown kombinerat med kraften i moderna utvecklingsverktyg**
+See **Learnings**, where you can read more about how I arrived at the tools I chose. [Learnings](./05-learnings.md)
 
-Skriv din dokumentation i VS Code – publicera den som en webbplats.
+Keen on trying for yourself? Here's my hands-on-guide: [Gettings started with Docusaurus](./02-gettingstartedguide.md).
 
-Det är här den stora styrkan med Docs-as-Code. Du arbetar i en utvecklingsmiljö som är anpassad för strukturerat innehåll. Du skriver dina Markdown-filer direkt i VS Code och kan förhandsgranska resultatet i en smidig arbetsprocess.
+## **VS Code makes Markdown feel like a walk in the park**
 
-När dokumentationen är klar versionshanterar du dina ändringar med Git och pushar dem till GitHub. 
-
-Därefter bygger en statisk webbplatsgenerator (SSG), som exempelvis Docusaurus, automatiskt om dina Markdown-filer till en färdig sajt som kan publiceras via exempelvis GitHub Pages.
-
-Det finns såklart andra verktyg både för redigering och publicering men jag htycker detta är en en bra och stabil kombination. (Under Learnings) kan du läsa mer om hur jag kom fram till vilka verktyg jag skulle använda.
-
-Läs mer här: [Gettings started with Docusaurus-guide](./02-gettingstartedguide.md).
-
-## **VS Code gör Markdown enkelt**
-
-- VS Code är perfekt för att lära sig Markdown.
-- I VS Code tvingas du skriva de faktiska tecknen (som #, ** och parenteser) med tangentbordet. Det gör att du snabbt nöter in grunderna i muskelminnet, vilket gör dig till en mer universell och flexibel teknisk skribent.
-- I VS Code preview ser du hela tiden det färdiga resultatet.
+- VS Code is the perfect tool för learning Markdown.
+- In VS Code, you are forced to write the actual Markdown code using your keyboard. This helps you quickly build the basics into muscle memory.
+- In the VS Code preview, you can see the final result as you work.
 
 ![Preview i VS Code](./vscode-preview.png)
 
-## Samarbete med utvecklare och tekniker
+## In collaboration with developers and technicians
 
-En av de stora styrkorna med GitHub och Docs-as-Code är att dokumentationen kan utvecklas i samma miljö och med liknande arbetssätt som källkoden. Det gör samarbetet mellan tekniska skribenter, utvecklare och tekniker enklare och mer transparent.
+One of the main strengths of GitHub and Docs-as-Code is that documentation can be developed in the same environment and using similar workflows as source code. This makes collaboration between technical writers, developers and technicians easier and more transparent.
 
-Istället för att skicka dokument fram och tillbaka via e-post eller separata granskningsprocesser kan alla arbeta med samma filer, samma versionshistorik och samma arbetsflöde.
+Instead of sending documents back and forth by email or using separate review processes, everyone can work with the same files, the same version history, and the same workflow.
 
 ### Gemensamma granskningar (Pull Requests)
 

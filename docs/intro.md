@@ -5,45 +5,35 @@ sidebar_position: 1
 ---
 
 
-# Documentation overview
+# Welcome
 
-This portfolio is a Docusaurus-based home for work, ideas, and digital storytelling. It is designed to grow as new case studies, projects, and experiences are added.
+This portfolio is a Docusaurus-based home for work, ideas and hands-on learning. It is designed to grow as new case studies, projects, and experiences are added.
 
-<br />
+## Site structure
 
->**This site is best experienced using the navigation sidebar and search. If you're looking for a specific topic, searching is often the fastest way to find it.**
+My ambition has been to create a simple and clear site structure.
+You will find the following:
+- A Docs-as-code chapter explaining the concept
+- Documentation samples
+- A chapter on Information design
 
-<br />
+>**This site is best experienced using the navigation sidebar**
 
-
-# How to use
+## How to navigate
 
 Whether you're using a desktop computer, tablet, or mobile device, the navigation is designed to help you find information quickly.
 
-## Desktop
+### On desktop
 
-On larger screens, you'll find the navigation menu in the left-hand sidebar. Use it to browse topics and move between related articles.
+On larger screens, you'll find the navigation menu in the left-hand sidebar. Use it to move between topics and articles.
 
-You can also use the search function at the top of the page to quickly locate specific content.
+On the right hand side of the page, you will find a table of contents (similar to word chapters). Use it to jump directly to a specific section without scrolling through the entire document.
 
-## Mobile
+### On mobile
 
 On smaller screens, the navigation menu is hidden to maximise reading space.
 
-Tap the **menu icon (☰)** in the top-left corner to open the documentation sidebar. From there, you can browse sections, expand categories, and jump directly to another page.
-
-
-## Navigating Within a Page
-
-Many pages include a table of contents on the right-hand side (or at the top on smaller screens). Use it to jump directly to a specific section without scrolling through the entire document.
-
-Internal links throughout the documentation connect related topics and provide additional background where needed.
-
-## Documentation Structure
-
-The documentation follows a task-based structure. Each section focuses on a specific topic or workflow, allowing you to read only what you need.
-
-If you're new to the site, it's recommended to start with the **Getting Started** section before exploring more advanced topics.
+Tap the **menu icon (☰)** to open the documentation sidebar. From there, you can browse sections and jump directly to another page.
 
 
 
