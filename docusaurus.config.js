@@ -30,6 +30,12 @@ module.exports = {
       },
     },
   },
+
+    i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'sv'],
+  },
+  
   presets: [
     [
       '@docusaurus/preset-classic',

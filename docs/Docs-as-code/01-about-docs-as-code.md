@@ -10,7 +10,12 @@ Docs-as-code is a method where documentation is written and managed in the same 
 
 ## **Hur det fungerar i praktiken**
 
-- Du använder Markdown i stället för ordebehandlare som Word till exempel. Texten sparas med filändelsen .md.
+- Du skriver i Markdown (istället för Word eller liknande)
+- Du använder en Markdown-editor som exempelvis VS Code.
+- Filerna lagras på ett Git repository
+- Dokumentation kan granskas som i ett vanligt publiceringsflöde
+
+- Du använder Markdown i stället för ordbehandlare som Word till exempel. Texten sparas med filändelsen .md.
 - Lagra tillsammans med koden: Dokumentationen sparas i samma system (exempelvis GitHub eller GitLab) som själva programvaran.
 - Granska som kod: Innan en ändring sparas permanent kan en kollega kontrollera texten (en så kallad pull request eller granskning), precis som ett traditionellt granskningsflöde.
 - Automatisk publicering: När ändringen godkänns omvandlas textfilerna automatiskt till en snygg webbsida via ett publiceringsverktyg.
