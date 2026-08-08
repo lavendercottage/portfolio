@@ -6,20 +6,13 @@ sidebar_position: 4
 
 :::note **Documentation notes:**
 
-- Document type: Workflow
-- Target audience: IT Management, developers, technicians
-- Tools: Markdown, VS Code, Docusaurus, GitHub, Draw.io
-- Focus: Visual design and structured writing
+- Type: Workflow
+- Focus: Visual design
+- Last updated: 260807
 
 :::
 
-# Workflow: Git and Docusaurus Publishing
-
-## Purpose
-
-This workflow describes the standard process for creating, reviewing, and publishing documentation using Docusaurus, Git, and GitHub.
-
-## Workflow Overview
+# Workflow example
 
 ```text
 Start

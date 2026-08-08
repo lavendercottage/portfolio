@@ -31,7 +31,7 @@ export default function Home() {
         <section className="hero-section">
           <div className="hero-copy">
             <p className="eyebrow">Documentation . Information design . Docs-as-code</p>
-            <h1>A Technical Writer's Portfolio</h1>
+            <h1>A journey in technical writing</h1>
             <p>
               This page is showcasing a docs-as-code workflow with Docusaurus, GitHub and Markdown.
             </p>
