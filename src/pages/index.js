@@ -77,7 +77,12 @@ export default function Home() {
     rel="noopener noreferrer"
     aria-label="LinkedIn"
   >
-    <img src="/img/linkedin.svg" alt="" />
+    <img
+  src="/img/linkedin.svg"
+  alt="LinkedIn"
+  width="40"
+  height="40"
+/>
   </a>
 
   <a
@@ -86,14 +91,24 @@ export default function Home() {
     rel="noopener noreferrer"
     aria-label="GitHub"
   >
-    <img src="/img/github.svg" alt="" />
+    <img
+  src="/img/github.svg"
+  alt="GitHub"
+  width="40"
+  height="40"
+/>
   </a>
 
   <a
     href="mailto:annika.m.adams@gmail.com"
     aria-label="Email"
   >
-    <img src="/img/mail.svg" alt="" />
+    <img
+  src="/img/mail.svg"
+  alt="Email"
+  width="40"
+  height="40"
+/>
   </a>
 </div>
       </main>
