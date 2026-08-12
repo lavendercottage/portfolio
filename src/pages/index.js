@@ -69,7 +69,36 @@ export default function Home() {
           ))}
       
         </section>
+
+        <div className="social-links">
+  <a
+    href="https://www.linkedin.com/in/annikaadams/"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="LinkedIn"
+  >
+    <img src="/img/linkedin.svg" alt="" />
+  </a>
+
+  <a
+    href="https://github.com/lavendercottage"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="GitHub"
+  >
+    <img src="/img/github.svg" alt="" />
+  </a>
+
+  <a
+    href="mailto:annika.m.adams@gmail.com"
+    aria-label="Email"
+  >
+    <img src="/img/mail.svg" alt="" />
+  </a>
+</div>
       </main>
     </Layout>
   );
+
 }
+

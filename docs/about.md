@@ -21,4 +21,4 @@ The portfolio is a living project. As I continue to develop my skills, I'll keep
 
 ## Contact
 
-Add your email, LinkedIn, or portfolio links here to make this section actionable.
+
