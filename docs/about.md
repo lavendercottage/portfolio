@@ -19,6 +19,4 @@ Getting the site up and running was my first milestone. It represents much more 
 
 The portfolio is a living project. As I continue to develop my skills, I'll keep adding new documentation examples, workflows, and case studies. My goal isn't just to showcase what I already know, but to demonstrate how I learn, adapt, and turn new knowledge into practical results.
 
-## Contact
-
-![GitHub](./img/github.png)
+//Annika
