@@ -80,8 +80,8 @@ export default function Home() {
     aria-label="LinkedIn"
   >
     <img
-  src="/img/linkedin.png"
-  alt="GitHub"
+  src="img/linkedin.png"
+  alt="LinkedIn"
   width="40"
   height="40"
 />
