@@ -74,7 +74,7 @@ export default function Home() {
 
 
   <a
-    href="https://linkedin.com/in/annikaadams"
+    href="https://linkedin.com/in/annikamadams"
     target="_blank"
     rel="noopener noreferrer"
     aria-label="LinkedIn"
@@ -88,7 +88,7 @@ export default function Home() {
   </a>
 
   <a
-    href="https://github.com/lavendercottage"
+    href="https://github.com/lavendercottage/portfolio"
     target="_blank"
     rel="noopener noreferrer"
     aria-label="GitHub"
@@ -101,17 +101,6 @@ export default function Home() {
 />
   </a>
 
-  <a
-    href="mailto:annika.m.adams@gmail.com"
-    aria-label="Email"
-  >
-    <img
-  src="img/mail.png"
-  alt="Email"
-  width="40"
-  height="40"
-/>
-  </a>
 </div>
       </main>
     </Layout>
