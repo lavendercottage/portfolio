@@ -71,19 +71,9 @@ export default function Home() {
         </section>
 
         <div className="social-links">
-  <a
-    href="https://www.linkedin.com/in/annikaadams/"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="LinkedIn"
-  >
-    <img
-  src="/img/linkedin.svg"
-  alt="LinkedIn"
-  width="40"
-  height="40"
-/>
-  </a>
+
+
+  <img src="/img/linkedin.svg" alt="LinkedIn" />
 
   <a
     href="https://github.com/lavendercottage"
