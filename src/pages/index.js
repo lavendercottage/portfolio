@@ -94,7 +94,7 @@ export default function Home() {
     aria-label="GitHub"
   >
     <img
-  src="/img/github.png"
+  src="img/github.png"
   alt="GitHub"
   width="40"
   height="40"
@@ -106,7 +106,7 @@ export default function Home() {
     aria-label="Email"
   >
     <img
-  src="/img/mail.png"
+  src="img/mail.png"
   alt="Email"
   width="40"
   height="40"
