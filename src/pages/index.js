@@ -73,7 +73,19 @@ export default function Home() {
         <div className="social-links">
 
 
-  <img src="/img/linkedin.svg" alt="LinkedIn" />
+  <a
+    href="https://linkedin.com/in/annikaadams"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="LinkedIn"
+  >
+    <img
+  src="/img/linkedin.png"
+  alt="GitHub"
+  width="40"
+  height="40"
+/>
+  </a>
 
   <a
     href="https://github.com/lavendercottage"
@@ -82,7 +94,7 @@ export default function Home() {
     aria-label="GitHub"
   >
     <img
-  src="/img/github.svg"
+  src="/img/github.png"
   alt="GitHub"
   width="40"
   height="40"
@@ -94,7 +106,7 @@ export default function Home() {
     aria-label="Email"
   >
     <img
-  src="/img/mail.svg"
+  src="/img/mail.png"
   alt="Email"
   width="40"
   height="40"
