@@ -34,7 +34,8 @@ export default function Home() {
             <h1>A journey in technical writing</h1>
             <p>
               This page is showcasing a docs-as-code workflow with Docusaurus, GitHub and Markdown.
-            </p>
+              It is an ongoing project written mainly for fellow technical writers.
+                        </p>
             <div className="hero-actions">
               <Link className="button button--primary" to={introPath}>
                 Check out the portfolio
@@ -80,7 +81,7 @@ export default function Home() {
     aria-label="LinkedIn"
   >
     <img
-  src="img/linkedin.png"
+  src="img/linkedin.svg"
   alt="LinkedIn"
   width="40"
   height="40"
@@ -94,7 +95,7 @@ export default function Home() {
     aria-label="GitHub"
   >
     <img
-  src="img/github.png"
+  src="img/github.svg"
   alt="GitHub"
   width="40"
   height="40"
